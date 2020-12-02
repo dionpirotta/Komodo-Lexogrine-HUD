@@ -2,6 +2,7 @@
 
 - Drag Zip into HUD Area in Lexogrine App
 - Use via the Link to URL or hitting the TV Icon to place HUD over game
+- Required Fonts -> 'Proxima Nova Regular', 'Proxima Nova Alt Light', 'Proxima Nova Bold', 'Roboto'
 
 ## Keybinds
 
